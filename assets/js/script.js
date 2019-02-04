@@ -1,4 +1,5 @@
 // Changer le font-family de la div text en "Arial".
-$(document).ready(function() {
-  $( '#text' ).css('font-family', 'arial');
+$(function() {
+  $('#text').css('font-family', 'arial');
+  // on applique la valeur arial à la propriété font-family
 });
